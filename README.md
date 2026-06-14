@@ -8,6 +8,8 @@ But that felt repetitive, so I decided to build something better: a simple DOS-s
 
 This project works directly from the **`[autoexec]` section of the DOSBox configuration file**, meaning no manual startup commands are needed.
 
+![DOSSelect running in Ubuntu 22.04 with DOSBox 0.73](DOSSELECT-v1-0.png)
+
 ---
 
 ## 1. Requirements to use it
